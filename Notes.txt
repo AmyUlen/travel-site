@@ -5,7 +5,7 @@ Steps for pushing to Git
 3) git commit -m "Changes that were made." = commits the files for uploading
 4) git push origin master = pushes committed files to my GitHub
 
-Node.js command prompt
+Gulp & Node.js command prompt
 
 1) cd (drag travel-site folder here)
 2) gulp watch = turns on 
